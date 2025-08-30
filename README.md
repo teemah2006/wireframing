@@ -32,15 +32,16 @@ Popular among Mac users, Sketch offers a wide range of plugins and integrations.
 
 - Figma (Recommended):
 Figma is a cloud-based design and collaboration tool that has become one of the most widely used for wireframing and prototyping.
-Key Features:
 
-Real-time collaboration, allowing multiple people to work on the same design.
-
-Browser-based with desktop and mobile apps, making it accessible anywhere.
-
-Supports both low-fidelity wireframes and high-fidelity UI designs.
-
-Easy sharing through links without extra software installation.
-
-Why it’s useful for wireframing:
-Figma’s collaborative features make it ideal for team projects, such as those in ALX programs. You can quickly sketch layouts, refine them into interactive prototypes, and easily share them with teammates for feedback—all in one place.
+  Key Features:
+  
+  Real-time collaboration, allowing multiple people to work on the same design.
+  
+  Browser-based with desktop and mobile apps, making it accessible anywhere.
+  
+  Supports both low-fidelity wireframes and high-fidelity UI designs.
+  
+  Easy sharing through links without extra software installation.
+  
+  Why it’s useful for wireframing:
+  Figma’s collaborative features make it ideal for team projects, such as those in ALX programs. You can quickly sketch layouts, refine them into interactive prototypes, and easily share them with teammates for feedback—all in one place.
