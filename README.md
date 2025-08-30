@@ -45,3 +45,8 @@ Figma is a cloud-based design and collaboration tool that has become one of the 
   
   Why it’s useful for wireframing:
   Figma’s collaborative features make it ideal for team projects, such as those in ALX programs. You can quickly sketch layouts, refine them into interactive prototypes, and easily share them with teammates for feedback—all in one place.
+
+## Benefits of Wireframing in Software Development
+- It’s easier (and cheaper) to adjust a wireframe than to rewrite large chunks of code later. Wireframing ensures issues are spotted and solved before development begins.
+- By visualizing layouts, teams can identify which features are essential, which can be improved later, and how best to organize workflows for efficiency.
+- Wireframes act as a communication bridge between designers, developers, and stakeholders. Everyone sees the same visual structure, making discussions clearer and more productive.
