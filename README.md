@@ -50,3 +50,27 @@ Figma is a cloud-based design and collaboration tool that has become one of the 
 - It’s easier (and cheaper) to adjust a wireframe than to rewrite large chunks of code later. Wireframing ensures issues are spotted and solved before development begins.
 - By visualizing layouts, teams can identify which features are essential, which can be improved later, and how best to organize workflows for efficiency.
 - Wireframes act as a communication bridge between designers, developers, and stakeholders. Everyone sees the same visual structure, making discussions clearer and more productive.
+
+# Real-World Scenario: Wireframing in Action
+
+During the early design phase of a university course registration system, the product team created wireframes to map out how students would select and enroll in courses.
+
+## Usability Issues Identified
+
+Complex Navigation: The initial wireframe required students to click through multiple screens just to add a single course.
+
+Hidden Actions: Important features, like “drop course” or “view schedule,” were buried deep within menus, making them hard to find.
+
+Overwhelming Layout: Too many options were displayed on a single page, which risked confusing first-time users.
+
+## How Issues Were Resolved
+
+The navigation was simplified into a clear, step-by-step flow: Search Course → Add Course → Confirm Schedule.
+
+Frequently used actions were surfaced on the main dashboard instead of being hidden in menus.
+
+The layout was cleaned up by grouping related actions and reducing visual clutter, making the interface more intuitive.
+
+## Impact on the Final Product
+
+Because these problems were caught early at the wireframing stage, developers didn’t waste time coding features that would later need major rework. The final product launched with a streamlined interface, reducing registration errors and saving students time. Feedback showed higher satisfaction and fewer support requests compared to earlier systems.
