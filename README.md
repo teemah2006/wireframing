@@ -13,3 +13,7 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 - Content Placement: Indicates where text, images, and other content will be positioned.
 - Functionality: Outlines key functionalities and interactions.
 
+## Types of Wireframes
+1. Low-fidelity: This type of wireframe is a simple sketch or basic digital layout focusing on overall structure and functionality without detailed design.
+2. High-fidelity: This is a More detailed and refined version, often closer to the final design, including more specific layout and design elements.
+The project airbnb wireframe is a high-fidelity wireframe
